@@ -1,4 +1,4 @@
 ﻿<h1>Practice Project 2</h1>
 <h2>Personal Blog</h2>
-#Live Website <br>
-Website is live at - https://hpx07.github.io/Personal-Blog/
+
+Project is live at - https://hpx07.github.io/Personal-Blog/
